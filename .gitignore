@@ -1,3 +1,5 @@
 /target
 .idea
 nbproject
+.DS_Store
+*~
