@@ -4,3 +4,5 @@ nbproject
 .DS_Store
 *~
 Cargo.lock
+monitor.py
+auto.sh
